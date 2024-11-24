@@ -1,0 +1,2 @@
+Prefix plugins/FilterNonExpressed/example/
+Plugin FilterNonExpressed inputfile distribution.pdf.rds outputfile expressed.rds
